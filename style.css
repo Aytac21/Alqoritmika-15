@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.text-main {
+    margin-top: 91px;
+    margin-left: 124px;
+    display: flex;
+    flex-direction: row;
+}
+
+.head-main {
+    width: 25.34vw;
+    font-weight: 700;
+    font-size: 3.81vw;
+    line-height: 101.38%;
+}
+
+.textt0 {
+    width: 45.9vw;
+    margin-top: 3.47vw;
+    font-weight: 400;
+    font-size: 1.66vw;
+    line-height: 150%;
+}
+
+.cam {
+    margin-top: 8.75vw;
+    margin-left: 13.2vw;
+    width: 21.8vw;
+    height: 21vw;
+}
+
+.image {
+    margin-top: 67px;
+    width: 16.11vw;
+    height: 14.09vw;
+    margin-left: 124px;
+}
+.table {
+    display: flex;
+    gap: 6.94vw;
+}
+.txt1{
+    margin-top: 5.2vw;
+    font-weight: 700;
+    font-size: 1.73vw;
+    line-height: 130%;
+}
+.txt2{
+    margin-top: 1.38vw;
+    width: 10.41vw;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 130%;
+}
