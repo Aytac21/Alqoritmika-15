@@ -1,1 +1,0 @@
-# Alqoritmika-15
